@@ -4,7 +4,7 @@ Spotify Playlist Assistant is a simple interface that provides methods to intera
 
 &nbsp;
 
-<div align='center' >
+<div align='center'>
 
 ### [**>> Try it out! <<**](https://spotify-playlist-assistant.vercel.app/)
 
@@ -12,7 +12,7 @@ Spotify Playlist Assistant is a simple interface that provides methods to intera
 
 &nbsp;
 
-![Screenshot](/public/screenshot.webp)
+![Screenshot Prototype](https://res.cloudinary.com/dyrcsywk9/image/upload/v1728660476/spotify-playlist-assistant-v0-laptop.webp)
 
 &nbsp;
 

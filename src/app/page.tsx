@@ -10,7 +10,7 @@ export default async function RootPage() {
 
   return (
     <main className={styles.main}>
-      <h1 className={styles.h1}>Spotify Playlist Assistant</h1>
+      <h1 className={styles.h1}>Spotify Playlist Assistant (Prototype)</h1>
 
       <section className={styles.section}>
         <article className={`${styles.article} ${styles.paper}`}>
