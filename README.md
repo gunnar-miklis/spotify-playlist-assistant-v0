@@ -1,4 +1,4 @@
-# Spotify Playlist Assistant (Prototype)
+# Spotify Playlist Assistant (Prototype v0)
 
 Spotify Playlist Assistant is a simple interface that provides methods to interact with the Spotify API. It allows users to fetch playlists and their tracks, apply filters to refine the tracklist, and create new playlists based on the selected criteria.
 
@@ -112,7 +112,10 @@ src/
 
 ## 🤝 Contributing
 
+**[>> Version: v1 <<](https://github.com/gunnar-miklis/spotify-playlist-assistant-v1)**
+
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to message me 🙂
+
 
 ## 📜 License
 
